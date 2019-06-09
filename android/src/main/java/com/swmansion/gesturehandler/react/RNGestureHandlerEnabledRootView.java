@@ -1,4 +1,4 @@
-package com.swmansion.gesturehandler.react;
+package com.relicode.gesturehandler.react;
 
 import android.content.Context;
 import android.os.Bundle;

@@ -85,7 +85,7 @@ class Footer extends React.Component {
             </svg>
           </a>
           <a
-            href="https://swmansion.com"
+            href="https://relicode.com"
             target="_blank"
             rel="noreferrer noopener"
             title="Expo"

@@ -1,4 +1,4 @@
-package com.swmansion.gesturehandler;
+package com.relicode.gesturehandler;
 
 public abstract class BaseGestureHandlerInteractionController
         implements GestureHandlerInteractionController {

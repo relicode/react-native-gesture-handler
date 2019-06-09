@@ -1,4 +1,4 @@
-package com.swmansion.gesturehandler;
+package com.relicode.gesturehandler;
 
 import android.os.SystemClock;
 import android.view.MotionEvent;

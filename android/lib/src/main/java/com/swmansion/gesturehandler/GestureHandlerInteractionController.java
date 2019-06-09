@@ -1,4 +1,4 @@
-package com.swmansion.gesturehandler;
+package com.relicode.gesturehandler;
 
 public interface GestureHandlerInteractionController {
   boolean shouldWaitForHandlerFailure(GestureHandler handler, GestureHandler otherHandler);

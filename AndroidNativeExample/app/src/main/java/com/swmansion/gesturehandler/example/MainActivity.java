@@ -1,4 +1,4 @@
-package com.swmansion.gesturehandler.example;
+package com.relicode.gesturehandler.example;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -10,18 +10,18 @@ import android.widget.SeekBar;
 import android.widget.Switch;
 import android.widget.Toast;
 
-import com.swmansion.gesturehandler.BaseGestureHandlerInteractionController;
-import com.swmansion.gesturehandler.GestureHandler;
-import com.swmansion.gesturehandler.GestureHandlerInteractionController;
-import com.swmansion.gesturehandler.GestureHandlerRegistryImpl;
-import com.swmansion.gesturehandler.GestureHandlerViewWrapper;
-import com.swmansion.gesturehandler.LongPressGestureHandler;
-import com.swmansion.gesturehandler.NativeViewGestureHandler;
-import com.swmansion.gesturehandler.OnTouchEventListener;
-import com.swmansion.gesturehandler.PanGestureHandler;
-import com.swmansion.gesturehandler.PinchGestureHandler;
-import com.swmansion.gesturehandler.RotationGestureHandler;
-import com.swmansion.gesturehandler.TapGestureHandler;
+import com.relicode.gesturehandler.BaseGestureHandlerInteractionController;
+import com.relicode.gesturehandler.GestureHandler;
+import com.relicode.gesturehandler.GestureHandlerInteractionController;
+import com.relicode.gesturehandler.GestureHandlerRegistryImpl;
+import com.relicode.gesturehandler.GestureHandlerViewWrapper;
+import com.relicode.gesturehandler.LongPressGestureHandler;
+import com.relicode.gesturehandler.NativeViewGestureHandler;
+import com.relicode.gesturehandler.OnTouchEventListener;
+import com.relicode.gesturehandler.PanGestureHandler;
+import com.relicode.gesturehandler.PinchGestureHandler;
+import com.relicode.gesturehandler.RotationGestureHandler;
+import com.relicode.gesturehandler.TapGestureHandler;
 
 public class MainActivity extends AppCompatActivity {
 
